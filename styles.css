@@ -59,3 +59,24 @@ body {
     font-size: 2rem; /* Tamanho maior para os ícones */
     margin-bottom: 4px; /* Espaço entre o ícone e o texto */
 }
+
+h1 {
+  
+  margin: 30px 0px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  
+}
+
+p {
+  margin: 15px 5px;
+  
+}
+
+li {
+  margin: 10px 5px;
+  
+}
